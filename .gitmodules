@@ -1,3 +1,0 @@
-[submodule "run-php"]
-	path = run-php
-	url = git@github.com:moritzebeling/run-php.git
