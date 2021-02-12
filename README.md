@@ -25,4 +25,4 @@ The main goal for RUN CMS is, to deliver a data model obtained from a folder str
 
 ## Info
 
-This project is currently in devlopment, and should only be used for experiments. Contributions are welcome.
+This project is currently in development, and should only be used for experiments. Contributions are welcome.
